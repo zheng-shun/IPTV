@@ -1,13 +1,5 @@
 港·澳·台,#genre#
-翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-纬来体育,http://198.16.100.90:8278/videolandsport/playlist.m3u8?tid=MF0F9609085796090857&ct=19254&tsum=6bf853a68e195475b4892428199568c7
-爱尔达体育,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-ELEVEN体育,https://ktpremium.com:443/K3939/6757/910890
-明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
-星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+星空卫视,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-TVBS新闻,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-TVBS欢乐,http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MBCB7220883472208834&ct=19234&tsum=82bece8e29754b899ffb60e5246dfc74
